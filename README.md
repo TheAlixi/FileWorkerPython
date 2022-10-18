@@ -6,7 +6,7 @@ Install library in pip
 Requires __pip__ installed
 
 ```
-pip install fileworker
+pip install fileworkerpy
 ```
 ---
 ## Work with library
