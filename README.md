@@ -13,11 +13,11 @@ pip install fileworker
 ### Import library
 
 ```python
-from FileWorker import *
+from FileWorkerPy import *
 ```
 or
 ```python
-import FileWorker
+import FileWorkerPy
 ```
 
 ## Create File
